@@ -1,8 +1,8 @@
 # UserList
-## Available Scripts
-
-In the project directory, you can run:
-
+**Installation**
+*	Install the dependencies:
+  ``` npm install ```
+ 	
 ### `npm start`
 
 Runs the app in the development mode.\
